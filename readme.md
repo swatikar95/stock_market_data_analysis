@@ -1,5 +1,5 @@
 ## Market Prediction and Analysis
-This repository contains a Python script to download, process, and visualize stock market data for specified tickers over the last three months using yfinance and plotly.
+This repository contains a Python script to download, process, and visualize real time stock market data for specified tickers over the last three months using yfinance and plotly.
 
 #### Features
 - Downloads historical stock market data for selected tickers.
